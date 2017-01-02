@@ -1,0 +1,4 @@
+*.pyc
+blog.log
+migrations/*
+test/*
